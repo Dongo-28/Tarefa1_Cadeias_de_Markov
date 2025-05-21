@@ -13,8 +13,11 @@ Este projeto implementa uma Cadeia de Markov em Python, simulando um sistema que
 
 Tarefa1_Cadeias_de_Markov/
 │
+
 ├── cadeias_markov.py # Código principal (Python)
+
 ├── qsn3.png # Gráfico: Distribuição de probabilidade (Questão 3)
+
 ├── qsn4c.png # Gráfico: Passos vs. Estados (Questão 4)
 ├── qsn4c_semilogy.png # Gráfico Semilog (Questão 4)
 ├── qsn5.png # Gráfico: Trajetórias amostradas (Questão 5)
