@@ -14,7 +14,7 @@ As principais funcionalidades implementadas incluem:
 ## 📂 Estrutura do Repositório
 
 Tarefa1_Cadeias_de_Markov/
-│
+
 
 ├── cadeias_markov.py # Código principal (Python)
 
