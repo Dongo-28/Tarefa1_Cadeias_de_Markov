@@ -19,11 +19,17 @@ Tarefa1_Cadeias_de_Markov/
 ├── qsn3.png # Gráfico: Distribuição de probabilidade (Questão 3)
 
 ├── qsn4c.png # Gráfico: Passos vs. Estados (Questão 4)
+
 ├── qsn4c_semilogy.png # Gráfico Semilog (Questão 4)
+
 ├── qsn5.png # Gráfico: Trajetórias amostradas (Questão 5)
+
 ├── qsn6.png # Gráfico: Progressão do estado médio (Questão 6)
+
 ├── qsn7.png # Gráfico: Comparação teórico vs. simulado (Questão 7)
+|
 ├── README.md # Este arquivo
+|
 └── .gitignore # Ignora arquivos temporários
 
 
