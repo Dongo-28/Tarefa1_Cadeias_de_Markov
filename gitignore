@@ -1,0 +1,15 @@
+# Ignora arquivos temporários do Python
+__pycache__/
+*.py[cod]
+
+# Ignora dados gerados
+*.csv
+*.log
+
+# Ignora configurações de IDE
+.idea/
+.vscode/
+
+# Ignora ambientes virtuais
+venv/
+env/
