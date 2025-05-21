@@ -27,9 +27,9 @@ Tarefa1_Cadeias_de_Markov/
 ├── qsn6.png # Gráfico: Progressão do estado médio (Questão 6)
 
 ├── qsn7.png # Gráfico: Comparação teórico vs. simulado (Questão 7)
-|
+
 ├── README.md # Este arquivo
-|
+
 └── .gitignore # Ignora arquivos temporários
 
 
