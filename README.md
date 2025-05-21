@@ -50,7 +50,7 @@ python cadeias_markov.py
 
 3. Verifique os gráficos gerados na pasta.
 
-📊 Resultados
+## 📊 Resultados
 Os gráficos gerados ilustram:
 
 Questão 3: Evolução temporal das probabilidades por estado.
@@ -60,3 +60,19 @@ Questão 4: Relação exponencial entre passos e número de estados.
 Questão 5: Trajetórias aleatórias da cadeia.
 
 Questão 6-7: Validação teórica vs. simulação.
+
+## 📥 Como Baixar e Executar
+
+ Via GitHub
+1. Acesse: [https://github.com/Dongo-28/Tarefa1_Cadeias_de_Markov](https://github.com/Dongo-28/Tarefa1_Cadeias_de_Markov)
+2. Clique em "Code" → "Download ZIP"
+3. Extraia o arquivo e navegue até a pasta:
+   ```bash
+   cd Tarefa1_Cadeias_de_Markov-main
+
+5. Instalação e Execução
+Instale as dependências:
+pip install numpy matplotlib
+
+Execute:
+python cadeias_markov.py
