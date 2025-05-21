@@ -3,7 +3,9 @@
 Disciplina: Visualização de Dados Usando Python e R
 
 ## 📌 Descrição
-Este projeto implementa uma Cadeia de Markov em Python, simulando um sistema que evolui probabilisticamente entre estados. O trabalho inclui:
+Este projeto implementa uma Cadeia de Markov discreta em Python, simulando um sistema estocástico que evolui entre diferentes estados seguindo probabilidades definidas. O trabalho foi desenvolvido como parte do estudo de processos estocásticos e métodos computacionais para análise de dados.
+
+As principais funcionalidades implementadas incluem:
 - Geração da matriz de transição
 - Propagação da distribuição de probabilidade
 - Simulação de trajetórias aleatórias
